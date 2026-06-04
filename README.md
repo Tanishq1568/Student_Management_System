@@ -1,1 +1,3 @@
 # Student_Management_System
+
+The Student Management System is a web application developed using HTML, CSS, and JavaScript to manage student records efficiently. The system allows users to add, view, update, and delete student information through an interactive user interface. The project was built to understand core web development concepts such as form handling, DOM manipulation, event handling, data validation, and dynamic content updates. It provided hands-on experience in creating a real-world CRUD (Create, Read, Update, Delete) application and strengthened the understanding of frontend web development using HTML, CSS, and JavaScript.
